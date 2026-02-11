@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pdf-download-order",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "90225cff-e9b2-4f0f-a5c5-8404edffc1dc",
+			"database_name": "kinomotom"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
